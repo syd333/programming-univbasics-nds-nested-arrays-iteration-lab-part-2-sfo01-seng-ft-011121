@@ -15,6 +15,7 @@ end
 array_of_daily_temperatures << lowest_temp
 row_index += 1
 end
+array_of_daily_temperatures
 end
 
 #find_min_in_nested_arrays(array_of_daily_temperatures)
