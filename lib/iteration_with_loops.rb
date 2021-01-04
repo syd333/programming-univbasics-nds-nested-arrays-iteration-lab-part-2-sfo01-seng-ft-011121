@@ -5,6 +5,6 @@ array_of_daily_temperatures = []
 row_index = 0
 while row_index < src.count do
   element_index = 0
-lowest_temp 
+lowest_temp = 0
 end
 end
