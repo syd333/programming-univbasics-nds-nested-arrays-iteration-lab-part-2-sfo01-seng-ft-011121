@@ -12,5 +12,6 @@ while element_index < src[row_index].count do
 end
 element_index += 1
 end
+array_of_daily_temperatures << lowest_temp
 row_index += 1
 end
